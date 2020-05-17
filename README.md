@@ -2,6 +2,5 @@
 A tool for scraping user information from the Dynmap plugin for minecraft
 
 Dependencies:
-Python3: selenium, bs4
+Python3: selenium, bs4, lxml
 System: chromiumdriver
-
